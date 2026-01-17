@@ -56,7 +56,8 @@ Your apps are more than just files.
 The easiest way to switch to Homebrew.
 *   Have apps you installed manually by dragging to Applications?
 *   Vesslo detects them and offers a **One-Click Adopt** feature to bring them under Homebrew management without reinstalling.
-![screen_shot 2026-01-17 09 43 21](https://github.com/user-attachments/assets/b14786dc-bc26-4bcb-85de-4a91f1069efb)
+<img width="500"  alt="appharbor_brew" src="https://github.com/user-attachments/assets/b14786dc-bc26-4bcb-85de-4a91f1069efb" />
+
 
 
 
