@@ -58,6 +58,33 @@ The easiest way to switch to Homebrew.
 <img width="400" alt="appharbor_brew" src="https://github.com/user-attachments/assets/b14786dc-bc26-4bcb-85de-4a91f1069efb" />
 
 
+#### 5. ⚡ Raycast Extension Integration 
+
+Vesslo integrates with a Raycast extension to deliver an even faster and more intuitive app management experience.
+No need to open the app—manage everything with a few keystrokes.
+
+* Search Apps
+Quickly find apps in your Vesslo library by name, developer, tag, or memo content.
+No more wondering where something is stored—any clue you remember is enough.
+
+* View Updates
+Check available updates from multiple sources such as Homebrew, Sparkle, and the App Store in one place,
+and run updates directly from Raycast.
+
+* Bulk Update
+Update all Homebrew cask apps at once with a single command.
+It completely removes the hassle of managing updates one by one.
+
+* Browse by Tag
+Explore your app collection organized by your custom tags.
+Manage apps naturally by purpose, such as “Work”, “Design”, “Dev”, or “Test”.
+
+
+
+
+<video src="https://github.com/user-attachments/assets/63aa89c8-37b0-4305-9954-0cd1c8e165bb" controls width="640" height="360"></video>
+
+
 
 
 ---
