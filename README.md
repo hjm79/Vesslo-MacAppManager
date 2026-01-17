@@ -82,7 +82,7 @@ Manage apps naturally by purpose, such as “Work”, “Design”, “Dev”, o
 
 
 
-<video src="https://github.com/user-attachments/assets/63aa89c8-37b0-4305-9954-0cd1c8e165bb" controls width="640" height="360"></video>
+<video src="https://github.com/user-attachments/assets/63aa89c8-37b0-4305-9954-0cd1c8e165bb" controls width="480"></video>
 
 
 
