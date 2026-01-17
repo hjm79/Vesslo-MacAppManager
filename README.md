@@ -29,7 +29,7 @@ Vesslo isn't just an update manager; it's a premium command center designed to m
 
 #### 1. 💎 Crystal Aurora Design
 Forget boring utility apps. Vesslo features our signature **Crystal Aurora** design language—a beautiful interface with glassmorphism, glowing borders, and animated gradients that fit perfectly on your modern Mac. It’s a tool that feels like a reward to use.
-<img width="1341" height="995" alt="SCR-20260117-inck" src="https://github.com/user-attachments/assets/7e825da2-1746-455d-a91d-a9a99979f8f5" />
+<img width="1000" alt="SCR-20260117-inck" src="https://github.com/user-attachments/assets/7e825da2-1746-455d-a91d-a9a99979f8f5" />
 
 
 
@@ -38,7 +38,7 @@ Stop checking five different places for updates. Vesslo unifies everything:
 *   **Homebrew Casks**: Instant version checks via API caching.
 *   **Sparkle Apps**: Native support for apps with built-in updaters (e.g., Sketch, OmniFocus).
 *   **Mac App Store**: Seamless integration via `mas`.
-<img width="1341" height="995" alt="SCR-20260117-inti-2" src="https://github.com/user-attachments/assets/688e1ad8-c3a2-41c0-b07e-8814295965d5" />
+<img width="1000" alt="SCR-20260117-inti-2" src="https://github.com/user-attachments/assets/688e1ad8-c3a2-41c0-b07e-8814295965d5" />
 
 
 
@@ -48,15 +48,14 @@ One glance, one click, everything up to date.
 Your apps are more than just files.
 *   **Tags & Notes**: Tag your apps ("Work", "Design", "Must-have") and write Markdown notes for them.
 *   **Deleted App History**: **(Unique Feature)** Even after you delete an app, Vesslo keeps your notes and usage history. Never wonder "Why did I delete that app last year?" again. Your insights are preserved forever.
-![screen_shot 2026-01-17 09 41 11](https://github.com/user-attachments/assets/a6e725f1-d42a-4ac3-a97a-c3cbbb0d66e0)
-
+<img width="400" alt="appharbor_memo" src="https://github.com/user-attachments/assets/a6e725f1-d42a-4ac3-a97a-c3cbbb0d66e0" />
    
 
 #### 4. 🍺 Brew Convertible
 The easiest way to switch to Homebrew.
 *   Have apps you installed manually by dragging to Applications?
 *   Vesslo detects them and offers a **One-Click Adopt** feature to bring them under Homebrew management without reinstalling.
-<img width="500"  alt="appharbor_brew" src="https://github.com/user-attachments/assets/b14786dc-bc26-4bcb-85de-4a91f1069efb" />
+<img width="400" alt="appharbor_brew" src="https://github.com/user-attachments/assets/b14786dc-bc26-4bcb-85de-4a91f1069efb" />
 
 
 
