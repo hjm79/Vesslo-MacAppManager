@@ -76,8 +76,7 @@ It completely removes the hassle of managing updates one by one.
 Explore your app collection organized by your custom tags.
 Manage apps naturally by purpose, such as “Work”, “Design”, “Dev”, or “Test”.
 
-<video src="https://github.com/user-attachments/assets/63aa89c8-37b0-4305-9954-0cd1c8e165bb" controls width="480"></video>
-
+<video src="https://github.com/user-attachments/assets/63aa89c8-37b0-4305-9954-0cd1c8e165bb" controls style="width: 480px; max-width: 100%; height: auto;"></video>
 
 
 
