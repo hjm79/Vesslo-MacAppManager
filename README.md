@@ -66,21 +66,15 @@ No need to open the app—manage everything with a few keystrokes.
 * Search Apps
 Quickly find apps in your Vesslo library by name, developer, tag, or memo content.
 No more wondering where something is stored—any clue you remember is enough.
-
 * View Updates
 Check available updates from multiple sources such as Homebrew, Sparkle, and the App Store in one place,
 and run updates directly from Raycast.
-
 * Bulk Update
 Update all Homebrew cask apps at once with a single command.
 It completely removes the hassle of managing updates one by one.
-
 * Browse by Tag
 Explore your app collection organized by your custom tags.
 Manage apps naturally by purpose, such as “Work”, “Design”, “Dev”, or “Test”.
-
-
-
 
 <video src="https://github.com/user-attachments/assets/63aa89c8-37b0-4305-9954-0cd1c8e165bb" controls width="480"></video>
 
