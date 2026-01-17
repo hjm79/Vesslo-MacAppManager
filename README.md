@@ -76,7 +76,7 @@ It completely removes the hassle of managing updates one by one.
 Explore your app collection organized by your custom tags.
 Manage apps naturally by purpose, such as “Work”, “Design”, “Dev”, or “Test”.
 
-<video src="https://github.com/user-attachments/assets/63aa89c8-37b0-4305-9954-0cd1c8e165bb" controls style="width: 480px; max-width: 100%; height: auto;"></video>
+![raycast](https://github.com/user-attachments/assets/eaac6d67-bfd1-4c48-9991-2f282b8d7146)
 
 
 
@@ -130,6 +130,25 @@ Vesslo는 단순한 업데이트 관리 도구가 아닙니다. 당신의 Mac을
 *   Vesslo는 이를 자동으로 감지하여, 재설치 없이 클릭 한 번으로 **Homebrew 관리 모드**로 전환해 줍니다.
 <img width="400" alt="appharbor_brew" src="https://github.com/user-attachments/assets/b14786dc-bc26-4bcb-85de-4a91f1069efb" />
 
+#### 5. ⚡ Raycast Extension 연동 
+
+Vesslo는 Raycast 익스텐션을 통해 훨씬 더 빠르고 직관적인 앱 관리 경험을 제공합니다.
+마우스를 열 필요 없이, 키보드 한 번으로 모든 앱 정보를 다룰 수 있습니다.
+
+*Search Apps
+앱 이름, 개발사, 태그, 메모 내용을 기준으로 Vesslo 라이브러리에 저장된 앱을 즉시 검색할 수 있습니다.
+“어디에 저장했지?” 같은 고민 없이, 기억나는 단서 하나만으로도 바로 접근 가능합니다.
+*View Updates
+Homebrew, Sparkle, App Store 등 서로 다른 업데이트 소스를 한 곳에서 확인하고,
+Raycast 안에서 바로 업데이트를 실행할 수 있습니다.
+*Bulk Update
+모든 Homebrew cask 앱을 단 한 번의 명령으로 일괄 업데이트합니다.
+여러 개의 앱을 하나씩 관리하던 번거로움을 완전히 제거합니다.
+*Browse by Tag
+직접 만든 태그를 기준으로 앱 컬렉션을 탐색할 수 있습니다.
+“Work”, “Design”, “Dev”, “Test”처럼 목적별 앱 관리가 자연스럽게 구조화됩니다.
+
+![raycast](https://github.com/user-attachments/assets/eaac6d67-bfd1-4c48-9991-2f282b8d7146)
 ---
 
 ### 🚀 주요 기능
