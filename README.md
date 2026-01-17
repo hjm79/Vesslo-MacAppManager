@@ -29,7 +29,7 @@ Vesslo isn't just an update manager; it's a premium command center designed to m
 
 #### 1. 💎 Crystal Aurora Design
 Forget boring utility apps. Vesslo features our signature **Crystal Aurora** design language—a beautiful interface with glassmorphism, glowing borders, and animated gradients that fit perfectly on your modern Mac. It’s a tool that feels like a reward to use.
-<img width="1000" alt="SCR-20260117-inck" src="https://github.com/user-attachments/assets/7e825da2-1746-455d-a91d-a9a99979f8f5" />
+<img width="900" alt="SCR-20260117-inck" src="https://github.com/user-attachments/assets/7e825da2-1746-455d-a91d-a9a99979f8f5" />
 
 
 
@@ -38,7 +38,7 @@ Stop checking five different places for updates. Vesslo unifies everything:
 *   **Homebrew Casks**: Instant version checks via API caching.
 *   **Sparkle Apps**: Native support for apps with built-in updaters (e.g., Sketch, OmniFocus).
 *   **Mac App Store**: Seamless integration via `mas`.
-<img width="1000" alt="SCR-20260117-inti-2" src="https://github.com/user-attachments/assets/688e1ad8-c3a2-41c0-b07e-8814295965d5" />
+<img width="900" alt="SCR-20260117-inti-2" src="https://github.com/user-attachments/assets/688e1ad8-c3a2-41c0-b07e-8814295965d5" />
 
 
 
@@ -48,7 +48,7 @@ One glance, one click, everything up to date.
 Your apps are more than just files.
 *   **Tags & Notes**: Tag your apps ("Work", "Design", "Must-have") and write Markdown notes for them.
 *   **Deleted App History**: **(Unique Feature)** Even after you delete an app, Vesslo keeps your notes and usage history. Never wonder "Why did I delete that app last year?" again. Your insights are preserved forever.
-<img width="400" alt="appharbor_memo" src="https://github.com/user-attachments/assets/a6e725f1-d42a-4ac3-a97a-c3cbbb0d66e0" />
+<img width="600" alt="appharbor_memo" src="https://github.com/user-attachments/assets/a6e725f1-d42a-4ac3-a97a-c3cbbb0d66e0" />
    
 
 #### 4. 🍺 Brew Convertible
@@ -87,21 +87,28 @@ Vesslo는 단순한 업데이트 관리 도구가 아닙니다. 당신의 Mac을
 
 #### 1. 💎 크리스털 오로라 (Crystal Aurora) 디자인
 유틸리티 앱은 못생겨야 한다는 편견을 버리세요. Vesslo는 **크리스털 오로라** 디자인 언어를 적용하여, 빛나는 테두리와 부드러운 글래스모피즘, 그리고 살아있는 듯한 그라데이션 애니메이션을 제공합니다. 켜두는 것만으로도 Mac이 더 고급스러워집니다.
+<img width="900" alt="SCR-20260117-inck" src="https://github.com/user-attachments/assets/7e825da2-1746-455d-a91d-a9a99979f8f5" />
+
 
 #### 2. 🧘 진정한 통합 관리의 평화
 업데이트를 위해 터미널을 열고, App Store를 켜고, 웹사이트를 돌아다니지 마세요.
 *   **Homebrew, Sparkle, App Store**의 모든 업데이트를 한 화면에서 확인합니다.
 *   복잡한 명령어나 절차 없이, 직관적인 UI로 모든 앱의 최신 상태를 유지하세요.
+<img width="900" alt="SCR-20260117-inti-2" src="https://github.com/user-attachments/assets/688e1ad8-c3a2-41c0-b07e-8814295965d5" />
+
 
 #### 3. 🧠 완벽한 기억과 기록
 앱은 단순한 파일이 아닙니다. 당신의 도구입니다.
 *   **태그 & 메모**: "업무용", "구독중", "영상편집" 등 태그를 달고, 마크다운으로 상세한 메모를 남기세요.
 *   **삭제된 앱도 기억합니다 (Killer Feature)**: 앱을 삭제하더라도, 당신이 남긴 메모와 태그, 사용 기록은 사라지지 않습니다. *"작년에 써봤을 때 왜 지웠더라?"*라는 의문, 이제 Vesslo가 답해드립니다.
+<img width="600" alt="appharbor_memo" src="https://github.com/user-attachments/assets/a6e725f1-d42a-4ac3-a97a-c3cbbb0d66e0" />
+
 
 #### 4. 🍺 Brew Convertible (자동 전환)
 가장 스마트하게 Homebrew로 갈아타는 방법.
 *   인터넷에서 직접 다운로드 받아 설치한 앱들이 있나요?
 *   Vesslo는 이를 자동으로 감지하여, 재설치 없이 클릭 한 번으로 **Homebrew 관리 모드**로 전환해 줍니다.
+<img width="400" alt="appharbor_brew" src="https://github.com/user-attachments/assets/b14786dc-bc26-4bcb-85de-4a91f1069efb" />
 
 ---
 
