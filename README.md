@@ -1,6 +1,8 @@
 # Vesslo-MacAppManager 🚢
 
+
 <img width="128" height="128" alt="appharbor" src="https://github.com/user-attachments/assets/354d970b-e648-4404-8d53-dfce85616781" />
+
 
 
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-bd00ff)
