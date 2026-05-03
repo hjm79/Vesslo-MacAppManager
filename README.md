@@ -107,7 +107,7 @@ Vesslo는 단순한 업데이트 관리 도구가 아닙니다. 당신의 Mac을
 
 #### 1. 💎 크리스털 오로라 (Crystal Aurora) 디자인
 유틸리티 앱은 못생겨야 한다는 편견을 버리세요. Vesslo는 **크리스털 오로라** 디자인 언어를 적용하여, 빛나는 테두리와 부드러운 글래스모피즘, 그리고 살아있는 듯한 그라데이션 애니메이션을 제공합니다. 켜두는 것만으로도 Mac이 더 고급스러워집니다.
-<img width="900" alt="SCR-20260117-inck" src="https://github.com/user-attachments/assets/7e825da2-1746-455d-a91d-a9a99979f8f5" />
+<img width="900" alt="SCR-20260117-inck" src="https://github.com/user-attachments/assets/2876e95a-db16-4d7b-982d-673c1020f609" />
 
 
 #### 2. 🧘 진정한 통합 관리의 평화
