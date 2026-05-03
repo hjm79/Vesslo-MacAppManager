@@ -1,4 +1,3 @@
-<img width="721" height="519" alt="vesslo_circle-003" src="https://github.com/user-attachments/assets/9a61b65d-7b39-4547-98c6-ea1fd56293c5" />
 # Vesslo-MacAppManager 🚢
 
 
