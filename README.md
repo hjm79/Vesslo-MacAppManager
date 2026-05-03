@@ -1,3 +1,4 @@
+<img width="721" height="519" alt="vesslo_circle-003" src="https://github.com/user-attachments/assets/9a61b65d-7b39-4547-98c6-ea1fd56293c5" />
 # Vesslo-MacAppManager 🚢
 
 
@@ -29,7 +30,7 @@ Vesslo isn't just an update manager; it's a premium command center designed to m
 
 #### 1. 💎 Crystal Aurora Design
 Forget boring utility apps. Vesslo features our signature **Crystal Aurora** design language—a beautiful interface with glassmorphism, glowing borders, and animated gradients that fit perfectly on your modern Mac. It’s a tool that feels like a reward to use.
-<img width="900" alt="SCR-20260117-inck" src="https://github.com/user-attachments/assets/7e825da2-1746-455d-a91d-a9a99979f8f5" />
+<img width="900" alt="SCR-20260117-inck" src="https://github.com/user-attachments/assets/2876e95a-db16-4d7b-982d-673c1020f609" />
 
 
 
